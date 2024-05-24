@@ -1,4 +1,4 @@
-# 42 École de Cub3D Projesi
+# Cub3D Projesi
 
 ## İçindekiler
 - [Hakkında](#hakkında)
